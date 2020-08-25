@@ -10,8 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "The BIG Adventure",
-  "version": "0.1",
+  "name": "GigaClub Pixelmon Pack DEV",
+  "version": "0.1.1",
   "author": "KevTVStreamt",
   "files": [
     {
@@ -615,13 +615,13 @@
       "required": true
     },
     {
-      "projectID": 51195,
-      "fileID": 2687757,
+      "projectID": 294047,
+      "fileID": 2574386,
       "required": true
     },
     {
-      "projectID": 294047,
-      "fileID": 2574386,
+      "projectID": 51195,
+      "fileID": 2687757,
       "required": true
     },
     {
@@ -670,13 +670,13 @@
       "required": true
     },
     {
-      "projectID": 309674,
-      "fileID": 3003364,
+      "projectID": 223896,
+      "fileID": 2680892,
       "required": true
     },
     {
-      "projectID": 223896,
-      "fileID": 2680892,
+      "projectID": 309674,
+      "fileID": 3003364,
       "required": true
     },
     {
